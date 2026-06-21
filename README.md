@@ -1,5 +1,5 @@
 # ZamaJam
-Animal Jam Classic Item Checker.
+Animal Jam Classic Item Checker. Made in JavaScript.
 
 Download Here: https://archive.org/download/zama-jam/ZamaJam.exe
 
